@@ -1,4 +1,4 @@
-**Pizza Base Customization with React FrameMotion.
+**Pizza Base Customization with React FrameMotion.**
 
 ![image](https://user-images.githubusercontent.com/65179572/94993332-e1c1fd00-05ad-11eb-85ef-1600357eca86.png)
 
