@@ -1,6 +1,6 @@
 ## Pizza Base Customization with React and FrameMotion
 
-## Watch the deployment video -  https://www.linkedin.com/posts/naren-purushothaman_reactjs-webdevelopment-activity-6718114452589432832-bu-A
+## Watch the deployment video -  shorturl.at/wyEO8
 
 ![image](https://user-images.githubusercontent.com/65179572/94993332-e1c1fd00-05ad-11eb-85ef-1600357eca86.png)
 
